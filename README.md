@@ -1,6 +1,6 @@
 Segundo trabalho para a disciplina Sistemas Inteligentes Aplicados da Universidade Tecnológica Fedetal do Paraná - 2020.
 
-Contrução do SVM.
+Construção do SVM.
 
 Aluno: Gabriel Rocha Stanzione
 
